@@ -338,9 +338,5 @@ debug.hwui.target_cpu_time_percent=30
 # Increase max cached processes
 activity_manager.max_cached_processes=64
 
-# blur
+#blur
 ro.surface_flinger.supports_background_blur=1
-
-# Spatial Audio
-ro.audio.stereo_spatialization_enabled=true
-ro.audio.spatializer_enabled=true
